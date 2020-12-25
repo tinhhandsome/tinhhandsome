@@ -1,4 +1,4 @@
-### Hi there, I'm [Tịnh Nguyễn!](https://elonpark.github.io) 👋
+### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
 
 <br />
 
