@@ -24,10 +24,3 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 </a>
 
 <br />
-
-**Currently working on**    
-<p>
-<a href="https://github.com/tinhhandsome/interface_angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tinhhandsome&repo=interface_angular&theme=radical" />
-</a> 
-</p>
