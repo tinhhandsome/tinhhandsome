@@ -29,4 +29,6 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 <h2> - 🌐 &nbsp; Anh về sẽ luyện lại võ công </h2>
 <h2> - 🔧 &nbsp; Tập cho thành thạo liên hoàn cước</h2>
 <h2> - 🖥 &nbsp; Để đá chồng em đêm động phòng </h2>
+<h2> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, có kiến thức thì luyện tốc độ, có tốc độ thì luyện quy trình.
+Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</h2>
 
