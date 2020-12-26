@@ -27,10 +27,10 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 <br />
 <h3>🛠 Tech Stack</h3>
 <code align="left">
-- 💻 &nbsp; Nếu biết rằng em sắp lấy chồng
-- 🌐 &nbsp; Anh về sẽ luyện lại võ công
-- 🔧 &nbsp; Tập cho thành thạo liên hoàn cước
-- 🖥 &nbsp; Để đá chồng em đêm động phòng
+- 💻 &nbsp; Nếu biết rằng em sắp lấy chồng <br/>
+- 🌐 &nbsp; Anh về sẽ luyện lại võ công <br/>
+- 🔧 &nbsp; Tập cho thành thạo liên hoàn cước <br/>
+- 🖥 &nbsp; Để đá chồng em đêm động phòng <br/>
 </code>
 
 
