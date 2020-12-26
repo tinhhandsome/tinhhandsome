@@ -26,7 +26,7 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 </a>
 <br />
 <h3>🛠 Tech Stack</h3>
-<code>
+<code align="left">
 - 💻 &nbsp; Nếu biết rằng em sắp lấy chồng
 - 🌐 &nbsp; Anh về sẽ luyện lại võ công
 - 🔧 &nbsp; Tập cho thành thạo liên hoàn cước
