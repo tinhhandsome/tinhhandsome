@@ -1,5 +1,5 @@
 ### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
-<h2> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.
+<h2> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.<br/>
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</h2>
 <br />
 
