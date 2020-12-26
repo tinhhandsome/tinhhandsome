@@ -3,6 +3,11 @@
 <br />
 
 Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; nếu biết rằng em sắp lấy chồng
+- 🌐 &nbsp; anh về sẽ luyện lại võ công
+- 🔧 &nbsp; tập cho thành thạo liên hoàn cước
+- 🖥 &nbsp; ể đá chồng em đêm động phòng
 
 - 🔭 I’m currently working on my project [Tinh HandSome](https://github.com/tinhhandsome)
 - 🌱 I’m currently learning Angular & Ruby on Rails & Javascript & many more!
