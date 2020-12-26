@@ -21,7 +21,7 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhhandsome&show_icons=true&theme=radical&line_height=27" alt="Tinh Nguyen's github stats" />
 </a>
 <a href="https://github.com/tinhhandsome/tinhhandsome">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhandsome&layout=compact&hide=html&theme=onedark" alt="bhadreshpsavani" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhandsome&layout=compact&hide=html&theme=onedark&line_height=27" alt="bhadreshpsavani" />
 </a>
 <br />
 <h3>🛠 Tech Stack</h3>
