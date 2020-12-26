@@ -7,10 +7,10 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 - 🌱 I’m currently learning Angular & Ruby on Rails & Javascript & many more!
 - 💬 Ask me about anything [here](https://github.com/tinhhandsome/interface_angular/issues)
 <h3>🛠 Tech Stack</h3>
-- <h2> 💻 &nbsp; Nếu biết rằng em sắp lấy chồng</h2>
-- <h2> 🌐 &nbsp; Anh về sẽ luyện lại võ công </h2>
-- <h2> 🔧 &nbsp; Tập cho thành thạo liên hoàn cước</h2>
-- <h2> 🖥 &nbsp; Để đá chồng em đêm động phòng </h2>
+<h2> - 💻 &nbsp; Nếu biết rằng em sắp lấy chồng</h2>
+<h2> - 🌐 &nbsp; Anh về sẽ luyện lại võ công </h2>
+<h2> - 🔧 &nbsp; Tập cho thành thạo liên hoàn cước</h2>
+<h2> - 🖥 &nbsp; Để đá chồng em đêm động phòng </h2>
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
