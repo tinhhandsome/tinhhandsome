@@ -6,7 +6,7 @@
 Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 - 🔭 I’m currently working on my project [Tinh HandSome](https://github.com/tinhhandsome)
 - 🌱 I’m currently learning Angular & Ruby on Rails & Javascript & many more!
-- 💬 Ask me about anything [here](https://github.com/tinhhandsome/interface_angular/issues)
+- 💬 Ask me about anything [here](https://github.com/tinhhandsome/interface_angular/issues) <br>
 **Languages and Tools:**
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
