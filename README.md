@@ -17,10 +17,12 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tinhhandsome/tinhhandsome">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinhhandsome&show_icons=true&theme=radical&line_height=27" alt="Tinh Nguyen's github stats" />
 </a>
-
+<a href="https://github.com/tinhhandsome/tinhhandsome">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhandsome&layout=compact&hide=html&theme=onedark" alt="bhadreshpsavani" />
+</a>
 <br />
 <h3>🛠 Tech Stack</h3>
 <h2> - 💻 &nbsp; Nếu biết rằng em sắp lấy chồng</h2>
