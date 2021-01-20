@@ -1,7 +1,8 @@
 ### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
 <code> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.<br/>
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</code>
-<code>- Tâm anh vẫn luôn phải tịnh ở giữa dòng đời đầy vạn thính
+<code>
+ - Tâm anh vẫn luôn phải tịnh ở giữa dòng đời đầy vạn thính
  - Nhưng đẹp trai là phải tỉnh chứ không yêu ma nó bất kính
  - Mới sáng sớm anh bước ra ngõ, anh đạp cức chó thật quá nhọ
 - Đời của anh giống như chữ "O", anh hơi sống khác hơn là bọn họ
