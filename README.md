@@ -1,6 +1,14 @@
 ### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
 <code> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.<br/>
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</code>
+<code>Tâm anh vẫn luôn phải tịnh ở giữa dòng đời đầy vạn thính <br>
+Nhưng đẹp trai là phải tỉnh chứ không yêu ma nó bất kính <br>
+Mới sáng sớm anh bước ra ngõ, anh đạp cức chó thật quá nhọ <br>
+Đời của anh giống như chữ "O", anh hơi sống khác hơn là bọn họ <br>
+Chắc vì thế ông già em khó, ổng không cho quen như vậy mới chó <br>
+Tập làm quen với những điều đó, cuộc sống là chó còn ta là mèo <br>
+Vì thực tế nó là con mèo thì người thiên hạ họ gọi là chó <br>
+Nghe tới đây nó hơi khó khó, không biết khi nào mới được tự do</code>
 <br />
 
 Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
