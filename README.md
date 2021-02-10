@@ -1,7 +1,8 @@
 ### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
 <code> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.<br/>
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</code>
-<code> Tập trung và suy ngẫm </code>
+<code> - Tập trung và suy ngẫm </code>
+<code> - Để học được võ công thượng thừa, phải rành những chiêu thức cơ bản trước, coding as well </code>
 <code>
  - Tâm anh vẫn luôn phải tịnh ở giữa dòng đời đầy vạn thính
  - Nhưng đẹp trai là phải tỉnh chứ không yêu ma nó bất kính
