@@ -3,7 +3,7 @@
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</code>
 - Tập trung và suy ngẫm
 - Để học được võ công thượng thừa, phải rành những chiêu thức cơ bản trước, coding as well
-
+<code>
  - Tâm anh vẫn luôn phải tịnh ở giữa dòng đời đầy vạn thính
  - Nhưng đẹp trai là phải tỉnh chứ không yêu ma nó bất kính
  - Mới sáng sớm anh bước ra ngõ, anh đạp cức chó thật quá nhọ
