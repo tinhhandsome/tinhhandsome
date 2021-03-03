@@ -1,11 +1,6 @@
 ### Hi there, I'm [Tịnh Nguyễn!](https://github.com/tinhhandsome/tinhhandsome) 👋
 <code> - 💻 &nbsp;Từ số 0 thì luyện kiến thức, <br/>có kiến thức thì luyện tốc độ, <br/>có tốc độ thì luyện quy trình.<br/>
 Đạt tới cảnh giới thứ 3 thì lo gì không có đất diễn.</code>
-- Tập trung và suy ngẫm
-- Để học được võ công thượng thừa, phải rành những chiêu thức cơ bản trước, coding as well
- 
-<br />
-
 Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 - 🔭 I’m currently working on my project [Tinh HandSome](https://github.com/tinhhandsome)
 - 🌱 I’m currently learning Angular & Ruby on Rails & Javascript & many more!
