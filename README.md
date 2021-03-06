@@ -31,4 +31,8 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 - 🖥 &nbsp; Để đá chồng em đêm động phòng <br/>
 </code>
 
+<code>
+Bạn làm hết về hành chính rồi về chơi, nhậu. Khi các bạn có tư duy đó là tư duy sai vãi l, ai chả muốn như thế mà ai cũng như thế thì lại bằng nhau hết, vứt, phải biết tách biệt với đa số mọi người, mình phải làm những cái nó không phải giờ hành chính, tìm hiểu công nghệ mới, đọc document, luyên code, làm thêm pet-project, luyện thêm kỹ năng, nhiều thứ, ... như thế nào, cứ thỏa hiệp bản thân cứ về xàm xàm lướt fb nhảm l, hết ngày, cuộc sống trôi qua như thế cực kì nhạt. Ai cũng muốn kiểu êm đềm có thời gian cho bản thân, lại muốn có nhiều tiền, đâu phải siêu nhân, chỉ có những thanh niên sinh ra vạch đích hoặc thiên tài thôi, đừng có mơ. Mọi thứ không phải lúc nào cũng hoàn hảo, thông minh chưa bao giờ là đủ, đòi hỏi bạn phải chăm chỉ cày như điên, khi một người đã giỏi rồi thì họ cực kì giỏi trong lĩnh vực của họ.
+</code>
+
 
