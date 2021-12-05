@@ -15,15 +15,5 @@ Hi, I'm Tịnh Nguyễn, a Ruby on Rails developer.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<br />
-<a href="https://github.com/tinhhandsome/tinhhandsome">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tinhhandsome&show_icons=true&theme=radical&line_height=27" alt="Tinh Nguyen's github stats" />
-</a> <br>
-<a href="https://github.com/tinhhandsome/tinhhandsome">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinhhandsome&layout=compact&hide=html&theme=onedark&line_height=27" alt="bhadreshpsavani" />
-</a>
-<br />
-<h3>🛠 Tech Stack</h3>
  
-
 
